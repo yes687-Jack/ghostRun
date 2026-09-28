@@ -1,3 +1,6 @@
+第一次参加黑客松，和小伙伴一起现场手搓的项目，开心。
+参数的项目页面：https://hackathon.evomap.ai/projects/cmuexxa7m0006psp7z5yhlt84
+
 # GHOST RUN
 
 ### 身份未知 · 继续前行
